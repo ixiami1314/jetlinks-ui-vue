@@ -26,6 +26,7 @@ apps
 *.sln
 *.sw?
 .history
+pnpm-lock.yaml
 
 # 插件生成文件不需要提交
 tsconfig.paths.json
